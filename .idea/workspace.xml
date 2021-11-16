@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="TicTacToeBot" targetName="gmock" />
+      <config projectName="TicTacToeBot" targetName="gtest_main" />
+      <config projectName="TicTacToeBot" targetName="gmock_main" />
+      <config projectName="TicTacToeBot" targetName="gtest" />
+      <config projectName="TicTacToeBot" targetName="TicTacToeBot" />
+      <config projectName="TicTacToeBot" targetName="Google_Tests_run" />
+      <config projectName="TicTacToeBot" targetName="curses" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" BUILD_OPTIONS="-Wall -lncurses" />
+      <configuration PROFILE_NAME="Release" ENABLED="true" CONFIG_NAME="Release" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3413ac6e-30e2-4aa8-81e3-4aed6bce12e0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://D:/Zakachka/Cygwin/usr/include/curses.h" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/CMakeLists.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/main.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DynamicArray/myDynamicArray.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Field/myField.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/menu.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sequence/myArraySequence.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Field/myField.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sequence/mySequence.h" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="Make.Settings">
+    <option name="useCygwin" value="true" />
+  </component>
+  <component name="ProjectId" id="1yx77z4UPhS6W3A9cBSVG26oH6W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor.code.editing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\cc++ labs\TicTacToeBot\GoogleTests" />
+      <recent name="C:\cc++ labs\TicTacToeBot\GoogleTests\Tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.TicTacToeBot">
+    <configuration name="All in Google_Tests_run" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TicTacToeBot" TARGET_NAME="Google_Tests_run" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="TicTacToeBot" RUN_TARGET_NAME="Google_Tests_run" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicArray.GetSet" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TicTacToeBot" TARGET_NAME="Google_Tests_run" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="TicTacToeBot" RUN_TARGET_NAME="Google_Tests_run" TEST_CLASS="DynamicArray" TEST_METHOD="GetSet" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicArray.Recap" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TicTacToeBot" TARGET_NAME="Google_Tests_run" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="TicTacToeBot" RUN_TARGET_NAME="Google_Tests_run" TEST_CLASS="DynamicArray" TEST_METHOD="Recap" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicArray.Resize" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TicTacToeBot" TARGET_NAME="Google_Tests_run" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="TicTacToeBot" RUN_TARGET_NAME="Google_Tests_run" TEST_CLASS="DynamicArray" TEST_METHOD="Resize" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicTacToeBot" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TicTacToeBot" TARGET_NAME="TicTacToeBot" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="TicTacToeBot" RUN_TARGET_NAME="TicTacToeBot">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.TicTacToeBot" />
+      <item itemvalue="Google Test.All in Google_Tests_run" />
+      <item itemvalue="Google Test.DynamicArray.Resize" />
+      <item itemvalue="Google Test.DynamicArray.Recap" />
+      <item itemvalue="Google Test.DynamicArray.GetSet" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Google Test.DynamicArray.GetSet" />
+        <item itemvalue="Google Test.DynamicArray.Resize" />
+        <item itemvalue="Google Test.DynamicArray.Recap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3413ac6e-30e2-4aa8-81e3-4aed6bce12e0" name="Changes" comment="" />
+      <created>1633181221211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633181221211</updated>
+      <workItem from="1633181222958" duration="7408000" />
+      <workItem from="1633274195431" duration="5262000" />
+      <workItem from="1633422564713" duration="1171000" />
+      <workItem from="1633537917480" duration="2891000" />
+      <workItem from="1633548830091" duration="4985000" />
+      <workItem from="1633587840148" duration="4525000" />
+      <workItem from="1633706074948" duration="2292000" />
+      <workItem from="1633764394864" duration="5867000" />
+      <workItem from="1633772067919" duration="1346000" />
+      <workItem from="1633803753441" duration="1168000" />
+      <workItem from="1633852309436" duration="24066000" />
+      <workItem from="1633940967810" duration="8418000" />
+      <workItem from="1633984903930" duration="3248000" />
+      <workItem from="1634022317242" duration="12985000" />
+      <workItem from="1634068652353" duration="5278000" />
+      <workItem from="1634142627299" duration="1378000" />
+      <workItem from="1634150059171" duration="16978000" />
+      <workItem from="1634279179095" duration="7246000" />
+      <workItem from="1634369869642" duration="4541000" />
+      <workItem from="1634418913521" duration="1875000" />
+      <workItem from="1634421480768" duration="115000" />
+      <workItem from="1634421622705" duration="1269000" />
+      <workItem from="1634460255521" duration="86000" />
+      <workItem from="1634464315810" duration="2661000" />
+      <workItem from="1634561027726" duration="6372000" />
+      <workItem from="1634647445639" duration="7818000" />
+      <workItem from="1634753091772" duration="101000" />
+      <workItem from="1634753254572" duration="11000" />
+      <workItem from="1634761185151" duration="17996000" />
+      <workItem from="1635014253274" duration="3062000" />
+      <workItem from="1635163560293" duration="2248000" />
+      <workItem from="1635172412277" duration="30000" />
+      <workItem from="1635172453881" duration="45000" />
+      <workItem from="1635173416453" duration="6711000" />
+      <workItem from="1635247579902" duration="27079000" />
+      <workItem from="1635944210486" duration="1286000" />
+      <workItem from="1635960694468" duration="819000" />
+      <workItem from="1635968701655" duration="1826000" />
+      <workItem from="1636047068885" duration="2027000" />
+      <workItem from="1636218267598" duration="4150000" />
+      <workItem from="1636301369999" duration="6065000" />
+      <workItem from="1636470932831" duration="1000" />
+      <workItem from="1636470998689" duration="37000" />
+      <workItem from="1636471058126" duration="717000" />
+      <workItem from="1636531215686" duration="630000" />
+      <workItem from="1636700918998" duration="4138000" />
+      <workItem from="1636712545044" duration="216000" />
+      <workItem from="1636712797857" duration="541000" />
+      <workItem from="1636716019530" duration="2480000" />
+      <workItem from="1636718695677" duration="627000" />
+      <workItem from="1637048141239" duration="216000" />
+      <workItem from="1637048433352" duration="2323000" />
+      <workItem from="1637068192223" duration="831000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Pasha/main.cpp</url>
+          <line>70</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/menu.h</url>
+          <line>159</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="CidrExceptionBreakpoint" />
+        <breakpoint enabled="true" type="javascript-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

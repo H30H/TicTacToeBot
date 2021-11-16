@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/TicTacToeBot.dir/main.cpp.o CMakeFiles/TicTacToeBot.dir/Field/myField.cpp.o -o TicTacToeBot.exe -Wl,--out-implib,libTicTacToeBot.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
